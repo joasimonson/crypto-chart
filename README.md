@@ -1,7 +1,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2f622f7d66f84007a3bb5d06381982bd)](https://www.codacy.com/gh/joasimonson/crypto-chart/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joasimonson/crypto-chart&amp;utm_campaign=Badge_Grade)
 
 <h1 align="center">
-    <p>Happy</p>
+    <p>Crypto Chart</p>
 </h1>
 
 <p align="center">
